@@ -5,7 +5,8 @@ import re
 import streamlit as st
 from dotenv import load_dotenv
 
-genai.configure(api_key=st.secrets["api"]["gemini_key"])
+api_key = st.secrets["secrets"]["gemini_api_key"]
+genai.configure(api_key=api_key)
 
 # Store conversation history
 conversation_history = []
