@@ -82,6 +82,8 @@ def travel_assistant(user_input):
         - Include day-by-day plans with time slots.
         - Ensure activities align with user preferences.
         - Keep the itinerary practical and enjoyable.
+        - Make sure to provide estimated time slots for each activity for each day.
+        - Give important considerations after the itinerary.
         """
     
     model = genai.GenerativeModel("gemini-1.5-pro-latest")
