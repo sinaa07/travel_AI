@@ -11,7 +11,6 @@ genai.configure(api_key=api_key)
 # Initialize chat history and user preferences in session state
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = [
-        {"role": "assistant", "content": "👋 Hello! I'm your travel assistant. What's your dream destination?"}
     ]
 
 if "user_preferences" not in st.session_state:
