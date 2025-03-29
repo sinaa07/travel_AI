@@ -71,6 +71,7 @@ def travel_assistant(user_input):
         Now that I have your trip details, let's plan activities!
         
         - Suggest relevant activities for {user_preferences.get("destination", "your destination")} along with open timings.
+        - Keep the activities latest and up to date with season of the destination.
         - Use emojis, but not too much.
         - User can pick from the suggestions or add their own.
         - Ensure activities fit within the budget preference.
