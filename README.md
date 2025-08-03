@@ -24,7 +24,7 @@ Travel with AI is a **Streamlit web app** that uses **Gemini 2.5 Pro** and promp
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/travel-with-ai.git
+git clone https://github.com/sinaa07/travel_AI.git
 
 # 2️⃣ Navigate to the project folder
 cd travel-with-ai
@@ -39,20 +39,18 @@ echo "GEMINI_API_KEY=your_api_key_here" > .env
 # 5️⃣ Run the app
 streamlit run app.py
 ```
+---
+
+## 🌐 Live Demo
+🚀 **[Try it here](https://travelwithai.streamlit.app)**
 
 ---
 
 ## 📸 Screenshots
 ![App Screenshot](sc/sc2.jpg)
-*Main interface showing AI-powered travel planning*
 
 ![Itinerary Example](sc/sc4.jpg)
 *Sample AI-generated travel itinerary*
-
----
-
-## 🌐 Live Demo
-🚀 **[Try it here](https://travelwithai.streamlit.app)**
 
 ---
 
