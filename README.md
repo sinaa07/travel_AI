@@ -27,7 +27,7 @@ Travel with AI is a **Streamlit web app** that uses **Gemini 2.5 Pro** and promp
 git clone https://github.com/sinaa07/travel_AI.git
 
 # 2️⃣ Navigate to the project folder
-cd travel-with-ai
+cd travel_AI
 
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
