@@ -42,11 +42,12 @@ streamlit run app.py
 
 ---
 
-## 💡 Usage
-1. **Open the app in your browser** after running it.
-2. **Enter your travel preferences** – e.g., destination type, budget, duration.
-3. **Get AI-generated travel suggestions** instantly.
-4. **Save or refine your itinerary** as needed.
+## 📸 Screenshots
+![App Screenshot](sc/sc2.jpg)
+*Main interface showing AI-powered travel planning*
+
+![Itinerary Example](sc/sc4.jpg)
+*Sample AI-generated travel itinerary*
 
 ---
 
